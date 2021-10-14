@@ -11,4 +11,4 @@ Autumn 2021
 
 ## Sessions
 
-[**Robinson-Foulds distance between two phylogenetic trees**](robinson-foulds/)
+**Lab 1** [**Quadratic-time Robinson-Foulds distance between two phylogenetic trees**](robinson-foulds-quadratic-time/main.ipynb)
